@@ -9,7 +9,27 @@ const NavigationHeader = () => {
                         <p>ARPPL</p>
                     </div>
                 </div>
+                <div className={classes.Prawa}>
+                    <div className={classes.TextPrawa}>
+                        <p>
+                            <button>Formularz</button>
+                        </p>
+                    </div>
+                    <div className={classes.TextPrawa}>
+                        <p>
+                            <button>Lista</button>
+                        </p>
+                    </div>
+                    <div className={classes.TextPrawa}>
+                        <p>
+                            <button>Home</button>
+                        </p>
+                    </div>
 
+
+                </div>
+            </div>
+            <div>
             </div>
         </header>
     );
