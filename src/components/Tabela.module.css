@@ -8,10 +8,25 @@
     border: 1px solid black;
 }
 
-
-.NaglowekOdstep{
+.NaglowekTabeli div {
+    border: 1px solid black;
 }
 
-.TabelaRekordy{}
+
+.NaglowekOdstep{
+    width: 100%;
+    height: 8px;
+}
+
+.TabelaRekordy{
+    border: 1px solid black;
+}
+
+.RekordTabeli{
+
+}
+.RekordTabeli div {
+    border: 1px solid black;
+}
 
 
