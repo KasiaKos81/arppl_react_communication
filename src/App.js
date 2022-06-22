@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './assets/logo.svg';
 import classes from './App.module.css';
 import AppBody from "./components/AppBody";
 import NavigationHeader from "./components/NavigationHeader";

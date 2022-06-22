@@ -20,6 +20,8 @@
 .Lewa {
     height: 100%;
     width: 50%;
+    display: flex;
+    flex-direction: row;
 }
 
 .TextLewa {
@@ -40,5 +42,10 @@
     display: flex;
     flex-direction: row-reverse;
 
+}
+
+.AppLogo {
+    height: 48px;
+    pointer-events: none;
 }
 
